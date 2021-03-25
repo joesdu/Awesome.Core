@@ -1,0 +1,15 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = Example.Api
+build_property.RootNamespace = Example.Api
+build_property.ProjectDir = G:\GitHub\Awesome.Core\Example.Api\
+build_property.RazorLangVersion = 5.0
+build_property.MSBuildProjectDirectory = G:\GitHub\Awesome.Core\Example.Api
+build_property.DesignTimeBuild = 
+build_property._RazorReferenceAssemblyTagHelpersOutputPath = G:\GitHub\Awesome.Core\Example.Api\obj\Debug\net6.0\RazorTagHelper.refs.out.cache
+build_property._RazorSourceGeneratorDebug = 
+build_property._RazorSourceGeneratorLog =
