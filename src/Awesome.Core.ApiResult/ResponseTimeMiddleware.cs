@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 namespace Awesome.Core.ApiResult
 {
     /// <summary>
-    /// 全局API耗时监控中间件
+    /// 全局API Action耗时监控中间件
     /// </summary>
     public class ResponseTimeMiddleware
     {
